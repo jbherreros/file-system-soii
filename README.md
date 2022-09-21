@@ -1,7 +1,7 @@
-# Autor: 
+# Autor 
 Juan Carlos Bujosa
 
-# Mejoras incluidas:
+# Mejoras
 Algunas de las mejoras añadidas respecto a la propuesta inicial son:
 - liberar_bloques_inodo() salta bloques lógicos  inecesarios
 - Caché de directorios implementada con un array siguiendo  criterio FIFO
