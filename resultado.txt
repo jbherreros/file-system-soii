@@ -1,0 +1,700 @@
+PID:7291
+Numero de escrituras:	50
+Primera Escritura	1	79367	Mon Jun  7 13:29:04 2021
+Ultima Escritura	50	474176	Mon Jun  7 13:29:06 2021
+Menor Posición		15	12517	Mon Jun  7 13:29:05 2021
+Mayor Posición		42	498824	Mon Jun  7 13:29:06 2021
+
+PID:7292
+Numero de escrituras:	50
+Primera Escritura	1	227976	Mon Jun  7 13:29:04 2021
+Ultima Escritura	50	293481	Mon Jun  7 13:29:07 2021
+Menor Posición		16	1116	Mon Jun  7 13:29:05 2021
+Mayor Posición		5	499781	Mon Jun  7 13:29:04 2021
+
+PID:7293
+Numero de escrituras:	50
+Primera Escritura	1	497473	Mon Jun  7 13:29:04 2021
+Ultima Escritura	50	36367	Mon Jun  7 13:29:07 2021
+Menor Posición		24	644	Mon Jun  7 13:29:05 2021
+Mayor Posición		6	497996	Mon Jun  7 13:29:05 2021
+
+PID:7294
+Numero de escrituras:	50
+Primera Escritura	1	352258	Mon Jun  7 13:29:04 2021
+Ultima Escritura	50	359590	Mon Jun  7 13:29:07 2021
+Menor Posición		32	284	Mon Jun  7 13:29:06 2021
+Mayor Posición		47	495225	Mon Jun  7 13:29:07 2021
+
+PID:7295
+Numero de escrituras:	50
+Primera Escritura	1	242557	Mon Jun  7 13:29:05 2021
+Ultima Escritura	50	175251	Mon Jun  7 13:29:07 2021
+Menor Posición		22	10064	Mon Jun  7 13:29:06 2021
+Mayor Posición		16	459631	Mon Jun  7 13:29:05 2021
+
+PID:7296
+Numero de escrituras:	50
+Primera Escritura	1	338147	Mon Jun  7 13:29:05 2021
+Ultima Escritura	50	276494	Mon Jun  7 13:29:07 2021
+Menor Posición		26	19445	Mon Jun  7 13:29:06 2021
+Mayor Posición		34	499289	Mon Jun  7 13:29:07 2021
+
+PID:7297
+Numero de escrituras:	50
+Primera Escritura	1	149071	Mon Jun  7 13:29:05 2021
+Ultima Escritura	50	346618	Mon Jun  7 13:29:08 2021
+Menor Posición		23	6913	Mon Jun  7 13:29:06 2021
+Mayor Posición		4	493772	Mon Jun  7 13:29:05 2021
+
+PID:7298
+Numero de escrituras:	50
+Primera Escritura	1	149132	Mon Jun  7 13:29:05 2021
+Ultima Escritura	50	51947	Mon Jun  7 13:29:08 2021
+Menor Posición		16	588	Mon Jun  7 13:29:06 2021
+Mayor Posición		41	474925	Mon Jun  7 13:29:07 2021
+
+PID:7299
+Numero de escrituras:	50
+Primera Escritura	1	230844	Mon Jun  7 13:29:05 2021
+Ultima Escritura	50	179067	Mon Jun  7 13:29:08 2021
+Menor Posición		7	11901	Mon Jun  7 13:29:06 2021
+Mayor Posición		6	499967	Mon Jun  7 13:29:06 2021
+
+PID:7300
+Numero de escrituras:	50
+Primera Escritura	1	117197	Mon Jun  7 13:29:06 2021
+Ultima Escritura	50	420229	Mon Jun  7 13:29:08 2021
+Menor Posición		16	19554	Mon Jun  7 13:29:06 2021
+Mayor Posición		18	495191	Mon Jun  7 13:29:07 2021
+
+PID:7301
+Numero de escrituras:	50
+Primera Escritura	1	152237	Mon Jun  7 13:29:06 2021
+Ultima Escritura	50	116642	Mon Jun  7 13:29:08 2021
+Menor Posición		39	669	Mon Jun  7 13:29:08 2021
+Mayor Posición		22	499146	Mon Jun  7 13:29:07 2021
+
+PID:7302
+Numero de escrituras:	50
+Primera Escritura	1	183224	Mon Jun  7 13:29:06 2021
+Ultima Escritura	50	228036	Mon Jun  7 13:29:09 2021
+Menor Posición		6	2779	Mon Jun  7 13:29:06 2021
+Mayor Posición		31	493259	Mon Jun  7 13:29:08 2021
+
+PID:7303
+Numero de escrituras:	50
+Primera Escritura	1	279176	Mon Jun  7 13:29:06 2021
+Ultima Escritura	50	12314	Mon Jun  7 13:29:09 2021
+Menor Posición		6	790	Mon Jun  7 13:29:07 2021
+Mayor Posición		37	480649	Mon Jun  7 13:29:08 2021
+
+PID:7304
+Numero de escrituras:	50
+Primera Escritura	1	472315	Mon Jun  7 13:29:06 2021
+Ultima Escritura	50	388273	Mon Jun  7 13:29:09 2021
+Menor Posición		15	19217	Mon Jun  7 13:29:07 2021
+Mayor Posición		48	474181	Mon Jun  7 13:29:09 2021
+
+PID:7305
+Numero de escrituras:	50
+Primera Escritura	1	468343	Mon Jun  7 13:29:07 2021
+Ultima Escritura	50	159899	Mon Jun  7 13:29:09 2021
+Menor Posición		2	9979	Mon Jun  7 13:29:07 2021
+Mayor Posición		15	492907	Mon Jun  7 13:29:07 2021
+
+PID:7306
+Numero de escrituras:	50
+Primera Escritura	1	61358	Mon Jun  7 13:29:07 2021
+Ultima Escritura	50	60942	Mon Jun  7 13:29:09 2021
+Menor Posición		26	7298	Mon Jun  7 13:29:08 2021
+Mayor Posición		9	498585	Mon Jun  7 13:29:07 2021
+
+PID:7307
+Numero de escrituras:	50
+Primera Escritura	1	476043	Mon Jun  7 13:29:07 2021
+Ultima Escritura	50	52938	Mon Jun  7 13:29:09 2021
+Menor Posición		24	284	Mon Jun  7 13:29:08 2021
+Mayor Posición		16	489490	Mon Jun  7 13:29:08 2021
+
+PID:7308
+Numero de escrituras:	50
+Primera Escritura	1	330933	Mon Jun  7 13:29:07 2021
+Ultima Escritura	50	27586	Mon Jun  7 13:29:09 2021
+Menor Posición		41	19194	Mon Jun  7 13:29:09 2021
+Mayor Posición		12	494261	Mon Jun  7 13:29:08 2021
+
+PID:7310
+Numero de escrituras:	50
+Primera Escritura	1	345069	Mon Jun  7 13:29:07 2021
+Ultima Escritura	50	99137	Mon Jun  7 13:29:10 2021
+Menor Posición		39	3878	Mon Jun  7 13:29:09 2021
+Mayor Posición		22	480131	Mon Jun  7 13:29:08 2021
+
+PID:7311
+Numero de escrituras:	50
+Primera Escritura	1	456315	Mon Jun  7 13:29:07 2021
+Ultima Escritura	50	103846	Mon Jun  7 13:29:10 2021
+Menor Posición		36	2432	Mon Jun  7 13:29:09 2021
+Mayor Posición		37	477252	Mon Jun  7 13:29:09 2021
+
+PID:7312
+Numero de escrituras:	50
+Primera Escritura	1	404551	Mon Jun  7 13:29:07 2021
+Ultima Escritura	50	186138	Mon Jun  7 13:29:10 2021
+Menor Posición		26	9114	Mon Jun  7 13:29:09 2021
+Mayor Posición		22	477272	Mon Jun  7 13:29:08 2021
+
+PID:7314
+Numero de escrituras:	50
+Primera Escritura	1	201395	Mon Jun  7 13:29:08 2021
+Ultima Escritura	50	9214	Mon Jun  7 13:29:10 2021
+Menor Posición		43	7596	Mon Jun  7 13:29:10 2021
+Mayor Posición		15	492422	Mon Jun  7 13:29:08 2021
+
+PID:7315
+Numero de escrituras:	50
+Primera Escritura	1	62734	Mon Jun  7 13:29:08 2021
+Ultima Escritura	50	357894	Mon Jun  7 13:29:10 2021
+Menor Posición		34	4705	Mon Jun  7 13:29:09 2021
+Mayor Posición		27	498537	Mon Jun  7 13:29:09 2021
+
+PID:7316
+Numero de escrituras:	50
+Primera Escritura	1	310620	Mon Jun  7 13:29:08 2021
+Ultima Escritura	50	53493	Mon Jun  7 13:29:10 2021
+Menor Posición		6	7136	Mon Jun  7 13:29:08 2021
+Mayor Posición		44	471798	Mon Jun  7 13:29:10 2021
+
+PID:7317
+Numero de escrituras:	50
+Primera Escritura	1	352950	Mon Jun  7 13:29:08 2021
+Ultima Escritura	50	149218	Mon Jun  7 13:29:10 2021
+Menor Posición		34	14784	Mon Jun  7 13:29:09 2021
+Mayor Posición		29	493862	Mon Jun  7 13:29:09 2021
+
+PID:7318
+Numero de escrituras:	50
+Primera Escritura	1	61694	Mon Jun  7 13:29:08 2021
+Ultima Escritura	50	117451	Mon Jun  7 13:29:11 2021
+Menor Posición		16	1515	Mon Jun  7 13:29:09 2021
+Mayor Posición		3	488256	Mon Jun  7 13:29:08 2021
+
+PID:7319
+Numero de escrituras:	50
+Primera Escritura	1	155959	Mon Jun  7 13:29:08 2021
+Ultima Escritura	50	153501	Mon Jun  7 13:29:11 2021
+Menor Posición		32	9652	Mon Jun  7 13:29:10 2021
+Mayor Posición		30	488820	Mon Jun  7 13:29:09 2021
+
+PID:7321
+Numero de escrituras:	50
+Primera Escritura	1	84339	Mon Jun  7 13:29:08 2021
+Ultima Escritura	50	206795	Mon Jun  7 13:29:11 2021
+Menor Posición		47	12126	Mon Jun  7 13:29:11 2021
+Mayor Posición		11	498529	Mon Jun  7 13:29:09 2021
+
+PID:7322
+Numero de escrituras:	50
+Primera Escritura	1	95728	Mon Jun  7 13:29:08 2021
+Ultima Escritura	50	345487	Mon Jun  7 13:29:11 2021
+Menor Posición		32	9406	Mon Jun  7 13:29:10 2021
+Mayor Posición		20	480240	Mon Jun  7 13:29:09 2021
+
+PID:7323
+Numero de escrituras:	50
+Primera Escritura	1	372398	Mon Jun  7 13:29:08 2021
+Ultima Escritura	50	85237	Mon Jun  7 13:29:11 2021
+Menor Posición		34	20439	Mon Jun  7 13:29:10 2021
+Mayor Posición		44	499277	Mon Jun  7 13:29:11 2021
+
+PID:7324
+Numero de escrituras:	50
+Primera Escritura	1	448165	Mon Jun  7 13:29:09 2021
+Ultima Escritura	50	26847	Mon Jun  7 13:29:11 2021
+Menor Posición		48	8698	Mon Jun  7 13:29:11 2021
+Mayor Posición		38	493370	Mon Jun  7 13:29:11 2021
+
+PID:7325
+Numero de escrituras:	50
+Primera Escritura	1	389451	Mon Jun  7 13:29:09 2021
+Ultima Escritura	50	82713	Mon Jun  7 13:29:11 2021
+Menor Posición		33	3320	Mon Jun  7 13:29:10 2021
+Mayor Posición		28	491734	Mon Jun  7 13:29:10 2021
+
+PID:7327
+Numero de escrituras:	50
+Primera Escritura	1	250872	Mon Jun  7 13:29:09 2021
+Ultima Escritura	50	455262	Mon Jun  7 13:29:11 2021
+Menor Posición		20	19366	Mon Jun  7 13:29:10 2021
+Mayor Posición		42	495121	Mon Jun  7 13:29:11 2021
+
+PID:7328
+Numero de escrituras:	50
+Primera Escritura	1	372910	Mon Jun  7 13:29:09 2021
+Ultima Escritura	50	479024	Mon Jun  7 13:29:11 2021
+Menor Posición		47	3796	Mon Jun  7 13:29:11 2021
+Mayor Posición		23	498041	Mon Jun  7 13:29:10 2021
+
+PID:7329
+Numero de escrituras:	50
+Primera Escritura	1	336951	Mon Jun  7 13:29:09 2021
+Ultima Escritura	50	328043	Mon Jun  7 13:29:12 2021
+Menor Posición		36	15646	Mon Jun  7 13:29:11 2021
+Mayor Posición		45	498936	Mon Jun  7 13:29:11 2021
+
+PID:7330
+Numero de escrituras:	50
+Primera Escritura	1	472314	Mon Jun  7 13:29:09 2021
+Ultima Escritura	50	100405	Mon Jun  7 13:29:12 2021
+Menor Posición		19	3177	Mon Jun  7 13:29:10 2021
+Mayor Posición		3	486866	Mon Jun  7 13:29:09 2021
+
+PID:7331
+Numero de escrituras:	50
+Primera Escritura	1	448580	Mon Jun  7 13:29:09 2021
+Ultima Escritura	50	87495	Mon Jun  7 13:29:12 2021
+Menor Posición		22	21831	Mon Jun  7 13:29:10 2021
+Mayor Posición		16	488078	Mon Jun  7 13:29:10 2021
+
+PID:7333
+Numero de escrituras:	50
+Primera Escritura	1	275708	Mon Jun  7 13:29:09 2021
+Ultima Escritura	50	425208	Mon Jun  7 13:29:12 2021
+Menor Posición		19	11194	Mon Jun  7 13:29:10 2021
+Mayor Posición		29	481533	Mon Jun  7 13:29:11 2021
+
+PID:7334
+Numero de escrituras:	50
+Primera Escritura	1	388245	Mon Jun  7 13:29:10 2021
+Ultima Escritura	50	308616	Mon Jun  7 13:29:12 2021
+Menor Posición		11	6499	Mon Jun  7 13:29:10 2021
+Mayor Posición		45	498843	Mon Jun  7 13:29:12 2021
+
+PID:7335
+Numero de escrituras:	50
+Primera Escritura	1	230985	Mon Jun  7 13:29:10 2021
+Ultima Escritura	50	145934	Mon Jun  7 13:29:12 2021
+Menor Posición		27	3205	Mon Jun  7 13:29:11 2021
+Mayor Posición		16	498352	Mon Jun  7 13:29:11 2021
+
+PID:7337
+Numero de escrituras:	50
+Primera Escritura	1	198681	Mon Jun  7 13:29:10 2021
+Ultima Escritura	50	360875	Mon Jun  7 13:29:12 2021
+Menor Posición		41	5918	Mon Jun  7 13:29:12 2021
+Mayor Posición		34	494945	Mon Jun  7 13:29:12 2021
+
+PID:7338
+Numero de escrituras:	50
+Primera Escritura	1	391343	Mon Jun  7 13:29:10 2021
+Ultima Escritura	50	231347	Mon Jun  7 13:29:12 2021
+Menor Posición		11	12390	Mon Jun  7 13:29:10 2021
+Mayor Posición		33	471599	Mon Jun  7 13:29:11 2021
+
+PID:7339
+Numero de escrituras:	50
+Primera Escritura	1	163940	Mon Jun  7 13:29:10 2021
+Ultima Escritura	50	46386	Mon Jun  7 13:29:13 2021
+Menor Posición		36	24521	Mon Jun  7 13:29:12 2021
+Mayor Posición		7	496054	Mon Jun  7 13:29:10 2021
+
+PID:7340
+Numero de escrituras:	50
+Primera Escritura	1	221947	Mon Jun  7 13:29:10 2021
+Ultima Escritura	50	303702	Mon Jun  7 13:29:13 2021
+Menor Posición		20	3112	Mon Jun  7 13:29:11 2021
+Mayor Posición		4	496212	Mon Jun  7 13:29:10 2021
+
+PID:7341
+Numero de escrituras:	50
+Primera Escritura	1	324092	Mon Jun  7 13:29:10 2021
+Ultima Escritura	50	55489	Mon Jun  7 13:29:13 2021
+Menor Posición		14	7464	Mon Jun  7 13:29:11 2021
+Mayor Posición		21	494754	Mon Jun  7 13:29:11 2021
+
+PID:7342
+Numero de escrituras:	50
+Primera Escritura	1	124537	Mon Jun  7 13:29:10 2021
+Ultima Escritura	50	470460	Mon Jun  7 13:29:13 2021
+Menor Posición		15	1488	Mon Jun  7 13:29:11 2021
+Mayor Posición		47	495356	Mon Jun  7 13:29:13 2021
+
+PID:7344
+Numero de escrituras:	50
+Primera Escritura	1	306372	Mon Jun  7 13:29:10 2021
+Ultima Escritura	50	143963	Mon Jun  7 13:29:13 2021
+Menor Posición		22	6295	Mon Jun  7 13:29:11 2021
+Mayor Posición		2	496030	Mon Jun  7 13:29:10 2021
+
+PID:7345
+Numero de escrituras:	50
+Primera Escritura	1	139272	Mon Jun  7 13:29:10 2021
+Ultima Escritura	50	157086	Mon Jun  7 13:29:13 2021
+Menor Posición		47	18495	Mon Jun  7 13:29:13 2021
+Mayor Posición		34	481613	Mon Jun  7 13:29:12 2021
+
+PID:7346
+Numero de escrituras:	50
+Primera Escritura	1	395265	Mon Jun  7 13:29:10 2021
+Ultima Escritura	50	175197	Mon Jun  7 13:29:13 2021
+Menor Posición		15	12984	Mon Jun  7 13:29:11 2021
+Mayor Posición		47	485462	Mon Jun  7 13:29:13 2021
+
+PID:7347
+Numero de escrituras:	50
+Primera Escritura	1	349219	Mon Jun  7 13:29:11 2021
+Ultima Escritura	50	470834	Mon Jun  7 13:29:13 2021
+Menor Posición		15	8979	Mon Jun  7 13:29:11 2021
+Mayor Posición		45	472655	Mon Jun  7 13:29:13 2021
+
+PID:7348
+Numero de escrituras:	50
+Primera Escritura	1	322839	Mon Jun  7 13:29:11 2021
+Ultima Escritura	50	384494	Mon Jun  7 13:29:13 2021
+Menor Posición		30	20755	Mon Jun  7 13:29:12 2021
+Mayor Posición		45	498021	Mon Jun  7 13:29:13 2021
+
+PID:7350
+Numero de escrituras:	50
+Primera Escritura	1	59070	Mon Jun  7 13:29:11 2021
+Ultima Escritura	50	440650	Mon Jun  7 13:29:13 2021
+Menor Posición		28	3711	Mon Jun  7 13:29:12 2021
+Mayor Posición		18	495413	Mon Jun  7 13:29:12 2021
+
+PID:7351
+Numero de escrituras:	50
+Primera Escritura	1	11236	Mon Jun  7 13:29:11 2021
+Ultima Escritura	50	159785	Mon Jun  7 13:29:13 2021
+Menor Posición		19	5937	Mon Jun  7 13:29:12 2021
+Mayor Posición		46	460772	Mon Jun  7 13:29:13 2021
+
+PID:7352
+Numero de escrituras:	50
+Primera Escritura	1	297252	Mon Jun  7 13:29:11 2021
+Ultima Escritura	50	289233	Mon Jun  7 13:29:14 2021
+Menor Posición		40	6726	Mon Jun  7 13:29:13 2021
+Mayor Posición		2	474163	Mon Jun  7 13:29:11 2021
+
+PID:7353
+Numero de escrituras:	50
+Primera Escritura	1	455717	Mon Jun  7 13:29:11 2021
+Ultima Escritura	50	25934	Mon Jun  7 13:29:14 2021
+Menor Posición		40	19744	Mon Jun  7 13:29:13 2021
+Mayor Posición		28	497934	Mon Jun  7 13:29:12 2021
+
+PID:7354
+Numero de escrituras:	50
+Primera Escritura	1	205287	Mon Jun  7 13:29:11 2021
+Ultima Escritura	50	222730	Mon Jun  7 13:29:14 2021
+Menor Posición		5	3053	Mon Jun  7 13:29:11 2021
+Mayor Posición		7	499023	Mon Jun  7 13:29:11 2021
+
+PID:7355
+Numero de escrituras:	50
+Primera Escritura	1	77396	Mon Jun  7 13:29:11 2021
+Ultima Escritura	50	370296	Mon Jun  7 13:29:14 2021
+Menor Posición		16	7224	Mon Jun  7 13:29:12 2021
+Mayor Posición		42	486642	Mon Jun  7 13:29:13 2021
+
+PID:7356
+Numero de escrituras:	50
+Primera Escritura	1	54744	Mon Jun  7 13:29:11 2021
+Ultima Escritura	50	358265	Mon Jun  7 13:29:14 2021
+Menor Posición		11	911	Mon Jun  7 13:29:12 2021
+Mayor Posición		46	484529	Mon Jun  7 13:29:14 2021
+
+PID:7358
+Numero de escrituras:	50
+Primera Escritura	1	133144	Mon Jun  7 13:29:11 2021
+Ultima Escritura	50	438216	Mon Jun  7 13:29:14 2021
+Menor Posición		37	21998	Mon Jun  7 13:29:13 2021
+Mayor Posición		29	495130	Mon Jun  7 13:29:13 2021
+
+PID:7359
+Numero de escrituras:	50
+Primera Escritura	1	25535	Mon Jun  7 13:29:11 2021
+Ultima Escritura	50	3573	Mon Jun  7 13:29:14 2021
+Menor Posición		11	2489	Mon Jun  7 13:29:12 2021
+Mayor Posición		40	497085	Mon Jun  7 13:29:13 2021
+
+PID:7360
+Numero de escrituras:	50
+Primera Escritura	1	447914	Mon Jun  7 13:29:11 2021
+Ultima Escritura	50	109170	Mon Jun  7 13:29:14 2021
+Menor Posición		13	12728	Mon Jun  7 13:29:12 2021
+Mayor Posición		7	493133	Mon Jun  7 13:29:12 2021
+
+PID:7361
+Numero de escrituras:	50
+Primera Escritura	1	50938	Mon Jun  7 13:29:12 2021
+Ultima Escritura	50	175090	Mon Jun  7 13:29:14 2021
+Menor Posición		12	16710	Mon Jun  7 13:29:12 2021
+Mayor Posición		5	445683	Mon Jun  7 13:29:12 2021
+
+PID:7362
+Numero de escrituras:	50
+Primera Escritura	1	185011	Mon Jun  7 13:29:12 2021
+Ultima Escritura	50	379944	Mon Jun  7 13:29:14 2021
+Menor Posición		36	5938	Mon Jun  7 13:29:14 2021
+Mayor Posición		45	491709	Mon Jun  7 13:29:14 2021
+
+PID:7364
+Numero de escrituras:	50
+Primera Escritura	1	52840	Mon Jun  7 13:29:12 2021
+Ultima Escritura	50	119149	Mon Jun  7 13:29:14 2021
+Menor Posición		47	6316	Mon Jun  7 13:29:14 2021
+Mayor Posición		25	490442	Mon Jun  7 13:29:13 2021
+
+PID:7363
+Numero de escrituras:	50
+Primera Escritura	1	219012	Mon Jun  7 13:29:12 2021
+Ultima Escritura	50	361053	Mon Jun  7 13:29:14 2021
+Menor Posición		36	3628	Mon Jun  7 13:29:14 2021
+Mayor Posición		21	452668	Mon Jun  7 13:29:13 2021
+
+PID:7366
+Numero de escrituras:	50
+Primera Escritura	1	75125	Mon Jun  7 13:29:12 2021
+Ultima Escritura	50	373843	Mon Jun  7 13:29:14 2021
+Menor Posición		41	30016	Mon Jun  7 13:29:14 2021
+Mayor Posición		30	485879	Mon Jun  7 13:29:13 2021
+
+PID:7367
+Numero de escrituras:	50
+Primera Escritura	1	239409	Mon Jun  7 13:29:12 2021
+Ultima Escritura	50	116113	Mon Jun  7 13:29:14 2021
+Menor Posición		8	9628	Mon Jun  7 13:29:12 2021
+Mayor Posición		17	494768	Mon Jun  7 13:29:13 2021
+
+PID:7368
+Numero de escrituras:	50
+Primera Escritura	1	173000	Mon Jun  7 13:29:12 2021
+Ultima Escritura	50	46489	Mon Jun  7 13:29:15 2021
+Menor Posición		36	413	Mon Jun  7 13:29:14 2021
+Mayor Posición		6	496742	Mon Jun  7 13:29:12 2021
+
+PID:7369
+Numero de escrituras:	50
+Primera Escritura	1	108968	Mon Jun  7 13:29:12 2021
+Ultima Escritura	50	40093	Mon Jun  7 13:29:15 2021
+Menor Posición		21	2112	Mon Jun  7 13:29:13 2021
+Mayor Posición		47	499215	Mon Jun  7 13:29:15 2021
+
+PID:7370
+Numero de escrituras:	50
+Primera Escritura	1	129197	Mon Jun  7 13:29:12 2021
+Ultima Escritura	50	491674	Mon Jun  7 13:29:15 2021
+Menor Posición		48	8032	Mon Jun  7 13:29:15 2021
+Mayor Posición		50	491674	Mon Jun  7 13:29:15 2021
+
+PID:7371
+Numero de escrituras:	50
+Primera Escritura	1	269029	Mon Jun  7 13:29:12 2021
+Ultima Escritura	50	269264	Mon Jun  7 13:29:15 2021
+Menor Posición		22	20325	Mon Jun  7 13:29:13 2021
+Mayor Posición		17	497090	Mon Jun  7 13:29:13 2021
+
+PID:7373
+Numero de escrituras:	50
+Primera Escritura	1	173134	Mon Jun  7 13:29:13 2021
+Ultima Escritura	50	459843	Mon Jun  7 13:29:15 2021
+Menor Posición		25	1151	Mon Jun  7 13:29:14 2021
+Mayor Posición		42	470442	Mon Jun  7 13:29:15 2021
+
+PID:7374
+Numero de escrituras:	50
+Primera Escritura	1	161241	Mon Jun  7 13:29:13 2021
+Ultima Escritura	50	472798	Mon Jun  7 13:29:15 2021
+Menor Posición		42	2087	Mon Jun  7 13:29:15 2021
+Mayor Posición		21	476397	Mon Jun  7 13:29:14 2021
+
+PID:7375
+Numero de escrituras:	50
+Primera Escritura	1	468594	Mon Jun  7 13:29:13 2021
+Ultima Escritura	50	160742	Mon Jun  7 13:29:15 2021
+Menor Posición		48	5500	Mon Jun  7 13:29:15 2021
+Mayor Posición		5	492000	Mon Jun  7 13:29:13 2021
+
+PID:7376
+Numero de escrituras:	50
+Primera Escritura	1	490932	Mon Jun  7 13:29:13 2021
+Ultima Escritura	50	293322	Mon Jun  7 13:29:15 2021
+Menor Posición		43	33808	Mon Jun  7 13:29:15 2021
+Mayor Posición		26	498624	Mon Jun  7 13:29:14 2021
+
+PID:7377
+Numero de escrituras:	50
+Primera Escritura	1	50263	Mon Jun  7 13:29:13 2021
+Ultima Escritura	50	248839	Mon Jun  7 13:29:15 2021
+Menor Posición		40	22095	Mon Jun  7 13:29:15 2021
+Mayor Posición		36	497367	Mon Jun  7 13:29:15 2021
+
+PID:7378
+Numero de escrituras:	50
+Primera Escritura	1	239034	Mon Jun  7 13:29:13 2021
+Ultima Escritura	50	191853	Mon Jun  7 13:29:15 2021
+Menor Posición		41	11640	Mon Jun  7 13:29:15 2021
+Mayor Posición		47	490986	Mon Jun  7 13:29:15 2021
+
+PID:7380
+Numero de escrituras:	50
+Primera Escritura	1	322005	Mon Jun  7 13:29:13 2021
+Ultima Escritura	50	222704	Mon Jun  7 13:29:15 2021
+Menor Posición		36	7864	Mon Jun  7 13:29:15 2021
+Mayor Posición		26	496152	Mon Jun  7 13:29:14 2021
+
+PID:7381
+Numero de escrituras:	50
+Primera Escritura	1	191126	Mon Jun  7 13:29:13 2021
+Ultima Escritura	50	6846	Mon Jun  7 13:29:15 2021
+Menor Posición		50	6846	Mon Jun  7 13:29:15 2021
+Mayor Posición		18	489866	Mon Jun  7 13:29:14 2021
+
+PID:7382
+Numero de escrituras:	50
+Primera Escritura	1	337046	Mon Jun  7 13:29:13 2021
+Ultima Escritura	50	191880	Mon Jun  7 13:29:15 2021
+Menor Posición		20	3609	Mon Jun  7 13:29:14 2021
+Mayor Posición		46	491788	Mon Jun  7 13:29:15 2021
+
+PID:7383
+Numero de escrituras:	50
+Primera Escritura	1	458912	Mon Jun  7 13:29:13 2021
+Ultima Escritura	50	298783	Mon Jun  7 13:29:16 2021
+Menor Posición		24	11210	Mon Jun  7 13:29:14 2021
+Mayor Posición		43	487249	Mon Jun  7 13:29:15 2021
+
+PID:7384
+Numero de escrituras:	50
+Primera Escritura	1	410157	Mon Jun  7 13:29:13 2021
+Ultima Escritura	50	16979	Mon Jun  7 13:29:16 2021
+Menor Posición		14	7420	Mon Jun  7 13:29:14 2021
+Mayor Posición		26	498102	Mon Jun  7 13:29:14 2021
+
+PID:7385
+Numero de escrituras:	50
+Primera Escritura	1	341599	Mon Jun  7 13:29:13 2021
+Ultima Escritura	50	288942	Mon Jun  7 13:29:16 2021
+Menor Posición		21	15415	Mon Jun  7 13:29:14 2021
+Mayor Posición		13	489943	Mon Jun  7 13:29:14 2021
+
+PID:7386
+Numero de escrituras:	50
+Primera Escritura	1	4793	Mon Jun  7 13:29:13 2021
+Ultima Escritura	50	403754	Mon Jun  7 13:29:16 2021
+Menor Posición		1	4793	Mon Jun  7 13:29:13 2021
+Mayor Posición		18	494042	Mon Jun  7 13:29:14 2021
+
+PID:7388
+Numero de escrituras:	50
+Primera Escritura	1	396853	Mon Jun  7 13:29:14 2021
+Ultima Escritura	50	291852	Mon Jun  7 13:29:16 2021
+Menor Posición		47	2686	Mon Jun  7 13:29:16 2021
+Mayor Posición		12	483683	Mon Jun  7 13:29:14 2021
+
+PID:7389
+Numero de escrituras:	50
+Primera Escritura	1	123982	Mon Jun  7 13:29:14 2021
+Ultima Escritura	50	416594	Mon Jun  7 13:29:16 2021
+Menor Posición		38	1526	Mon Jun  7 13:29:15 2021
+Mayor Posición		48	484031	Mon Jun  7 13:29:16 2021
+
+PID:7390
+Numero de escrituras:	50
+Primera Escritura	1	489211	Mon Jun  7 13:29:14 2021
+Ultima Escritura	50	300990	Mon Jun  7 13:29:16 2021
+Menor Posición		46	5919	Mon Jun  7 13:29:16 2021
+Mayor Posición		1	489211	Mon Jun  7 13:29:14 2021
+
+PID:7392
+Numero de escrituras:	50
+Primera Escritura	1	117358	Mon Jun  7 13:29:14 2021
+Ultima Escritura	50	39246	Mon Jun  7 13:29:16 2021
+Menor Posición		26	1542	Mon Jun  7 13:29:15 2021
+Mayor Posición		40	489266	Mon Jun  7 13:29:16 2021
+
+PID:7393
+Numero de escrituras:	50
+Primera Escritura	1	452022	Mon Jun  7 13:29:14 2021
+Ultima Escritura	50	18259	Mon Jun  7 13:29:16 2021
+Menor Posición		26	7506	Mon Jun  7 13:29:15 2021
+Mayor Posición		33	496087	Mon Jun  7 13:29:15 2021
+
+PID:7395
+Numero de escrituras:	50
+Primera Escritura	1	309156	Mon Jun  7 13:29:14 2021
+Ultima Escritura	50	125677	Mon Jun  7 13:29:16 2021
+Menor Posición		26	5435	Mon Jun  7 13:29:15 2021
+Mayor Posición		12	491440	Mon Jun  7 13:29:15 2021
+
+PID:7396
+Numero de escrituras:	50
+Primera Escritura	1	415997	Mon Jun  7 13:29:14 2021
+Ultima Escritura	50	483547	Mon Jun  7 13:29:16 2021
+Menor Posición		47	1766	Mon Jun  7 13:29:16 2021
+Mayor Posición		50	483547	Mon Jun  7 13:29:16 2021
+
+PID:7397
+Numero de escrituras:	50
+Primera Escritura	1	57295	Mon Jun  7 13:29:14 2021
+Ultima Escritura	50	164510	Mon Jun  7 13:29:16 2021
+Menor Posición		17	4529	Mon Jun  7 13:29:15 2021
+Mayor Posición		29	474969	Mon Jun  7 13:29:15 2021
+
+PID:7398
+Numero de escrituras:	50
+Primera Escritura	1	80650	Mon Jun  7 13:29:14 2021
+Ultima Escritura	50	428196	Mon Jun  7 13:29:16 2021
+Menor Posición		47	435	Mon Jun  7 13:29:16 2021
+Mayor Posición		4	494500	Mon Jun  7 13:29:14 2021
+
+PID:7399
+Numero de escrituras:	50
+Primera Escritura	1	80037	Mon Jun  7 13:29:14 2021
+Ultima Escritura	50	295782	Mon Jun  7 13:29:17 2021
+Menor Posición		46	34825	Mon Jun  7 13:29:16 2021
+Mayor Posición		9	479359	Mon Jun  7 13:29:15 2021
+
+PID:7400
+Numero de escrituras:	50
+Primera Escritura	1	251211	Mon Jun  7 13:29:14 2021
+Ultima Escritura	50	484613	Mon Jun  7 13:29:17 2021
+Menor Posición		7	8139	Mon Jun  7 13:29:15 2021
+Mayor Posición		24	497892	Mon Jun  7 13:29:15 2021
+
+PID:7401
+Numero de escrituras:	50
+Primera Escritura	1	421754	Mon Jun  7 13:29:14 2021
+Ultima Escritura	50	346050	Mon Jun  7 13:29:17 2021
+Menor Posición		19	1452	Mon Jun  7 13:29:15 2021
+Mayor Posición		5	481095	Mon Jun  7 13:29:15 2021
+
+PID:7402
+Numero de escrituras:	50
+Primera Escritura	1	52848	Mon Jun  7 13:29:14 2021
+Ultima Escritura	50	765	Mon Jun  7 13:29:17 2021
+Menor Posición		50	765	Mon Jun  7 13:29:17 2021
+Mayor Posición		26	497615	Mon Jun  7 13:29:16 2021
+
+PID:7403
+Numero de escrituras:	50
+Primera Escritura	1	491108	Mon Jun  7 13:29:15 2021
+Ultima Escritura	50	108625	Mon Jun  7 13:29:17 2021
+Menor Posición		15	12702	Mon Jun  7 13:29:15 2021
+Mayor Posición		1	491108	Mon Jun  7 13:29:15 2021
+
+PID:7404
+Numero de escrituras:	50
+Primera Escritura	1	166695	Mon Jun  7 13:29:15 2021
+Ultima Escritura	50	178786	Mon Jun  7 13:29:17 2021
+Menor Posición		14	29213	Mon Jun  7 13:29:15 2021
+Mayor Posición		36	493842	Mon Jun  7 13:29:16 2021
+
+PID:7406
+Numero de escrituras:	50
+Primera Escritura	1	364009	Mon Jun  7 13:29:15 2021
+Ultima Escritura	50	303712	Mon Jun  7 13:29:17 2021
+Menor Posición		36	4818	Mon Jun  7 13:29:16 2021
+Mayor Posición		12	498379	Mon Jun  7 13:29:15 2021
+
