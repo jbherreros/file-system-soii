@@ -1,5 +1,5 @@
-# Autor 
-Juan Carlos Bujosa
+# Descripción
+Simulación de un sistema de ficheros basado en EXT2 para la asignatura Sistemas Operativos II de la UIB (curso académico 20/21).
 
 # Mejoras
 Algunas de las mejoras añadidas respecto a la propuesta inicial son:
@@ -17,5 +17,8 @@ Algunas de las mejoras añadidas respecto a la propuesta inicial son:
 - mi_mv
 - Granularidad de las secciones críticas
 
+# Autor 
+Juan Carlos Bujosa
+
 # Licencia y uso
-Teniendo en cuenta que el proyecto corresponde a una práctica evaluable correspondiente a la asignatura Sistemas Operativos II de la UIB, el autor no autoriza la copia, ya sea total o parcial del código y no se responsabiliza del uso que se le de a la información aquí alojada.
+Teniendo en cuenta que el proyecto corresponde a una práctica final evaluable correspondiente a la asignatura Sistemas Operativos II de la UIB, el autor no autoriza la copia, ya sea total o parcial del código y no se responsabiliza del uso que se le de a la información aquí alojada.
